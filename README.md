@@ -2,8 +2,7 @@
 
 > A simple frontend demo project built with Vite and React that allows users to explore a list of reviews for various individuals. Users can navigate through the reviews, view them randomly, and get information about each person, including their image, name, job, and review text.
 
-![Project Logo](https://res.cloudinary.com/tawfeer/image/upload/v1689971800/Review-project_weuumn.png) (If you have a logo or image for the project, include it here)
-
+![Project Logo](https://res.cloudinary.com/tawfeer/image/upload/v1689971800/Review-project_weuumn.png)
 
 ## Table of Contents
 
@@ -22,6 +21,14 @@
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
+
+## Live Demo
+
+Experience the Reviews Demo Project in action! Click the link below to access the live demo:
+
+### [Live Demo](https://reviews-demo-esmat.netlify.app/)
+
+Feel free to interact with the project, browse through different reviews, and enjoy the user-friendly interface. The live demo provides a hands-on experience to explore the features of the Reviews Demo Project.
 
 ## Introduction
 
@@ -52,7 +59,7 @@ To run the application locally, follow these steps:
 1. **Clone the repository:** Start by cloning this repository to your local machine using the following command:
 
 ```sh
-git clone https://github.com/your-username/reviews-demo-project.git
+git clone https://github.com/Mohamed-Esmat/reviews-demo-project.git
 ```
 
 2. **Navigate to the project directory:** Change your working directory to the project folder:
@@ -104,7 +111,7 @@ We appreciate and welcome contributions to enhance the project! To contribute, f
 2. **Clone your fork:** Clone the forked repository to your local machine using the following command:
 
 ```sh
-git clone https://github.com/your-username/reviews-demo-project.git
+git clone https://github.com/Mohamed-Esmat/reviews-demo-project.git
 ```
 
 3. **Navigate to the project directory:** Change your working directory to the project folder:
@@ -158,7 +165,7 @@ We would like to thank the following resources and communities for their support
 
 If you have any questions or suggestions regarding the project or want to report an issue, feel free to contact us at:
 
-- **Email:** [youremail@example.com](mailto:youremail@example.com)
-- **GitHub:** [YourGitHubUsername](https://github.com/YourGitHubUsername)
+- **Email:** [msmt0452@gmail.com](mailto:msmt0452@gmail.com)
+- **GitHub:** [Mohamed-Esmat](https://github.com/Mohamed-Esmat)
 
 Happy exploring! We hope you find this reviews demo project helpful in honing your frontend development skills with React and Vite. Thank you for checking out the project! 🚀
